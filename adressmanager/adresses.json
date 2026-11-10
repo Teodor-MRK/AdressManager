@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "firstname": "Noah",
+        "lastname": "Müller",
+        "street": "Lindenstrasse 36",
+        "zipcode": "7000",
+        "place": "Chur"
+    },
+    {
+        "id": 2,
+        "firstname": "Jonas",
+        "lastname": "Weber",
+        "street": "Lindenstrasse 14",
+        "zipcode": "1003",
+        "place": "Lausanne"
+    },
+    {
+        "id": 3,
+        "firstname": "Felix",
+        "lastname": "Schmid",
+        "street": "Rosenweg 55",
+        "zipcode": "7000",
+        "place": "Chur"
+    },
+    {
+        "id": 4,
+        "firstname": "Anna",
+        "lastname": "Schmid",
+        "street": "Schulstrasse 30",
+        "zipcode": "8001",
+        "place": "Zürich"
+    },
+    {
+        "id": 5,
+        "firstname": "Daniel",
+        "lastname": "Müller",
+        "street": "Industriestrasse 26",
+        "zipcode": "6900",
+        "place": "Lugano"
+    },
+    {
+        "id": 6,
+        "firstname": "Felix",
+        "lastname": "Frei",
+        "street": "Schulstrasse 58",
+        "zipcode": "5000",
+        "place": "Aarau"
+    },
+    {
+        "id": 7,
+        "firstname": "Lea",
+        "lastname": "Müller",
+        "street": "Birkenweg 104",
+        "zipcode": "2000",
+        "place": "Neuenburg"
+    },
+    {
+        "id": 8,
+        "firstname": "Simon",
+        "lastname": "Gerber",
+        "street": "Kirchgasse 20",
+        "zipcode": "4051",
+        "place": "Basel"
+    },
+    {
+        "id": 9,
+        "firstname": "Nina",
+        "lastname": "Keller",
+        "street": "Hauptstrasse 49",
+        "zipcode": "1003",
+        "place": "Lausanne"
+    },
+    {
+        "id": 10,
+        "firstname": "Marco",
+        "lastname": "Brunner",
+        "street": "Rosenweg 34",
+        "zipcode": "3011",
+        "place": "Bern"
+    },
+    {
+        "id": 11,
+        "firstname": "Lukas",
+        "lastname": "Zimmermann",
+        "street": "Industriestrasse 16",
+        "zipcode": "1700",
+        "place": "Freiburg"
+    },
+    {
+        "id": 12,
+        "firstname": "Julia",
+        "lastname": "Schmid",
+        "street": "Industriestrasse 38",
+        "zipcode": "8200",
+        "place": "Schaffhausen"
+    },
+    {
+        "id": 13,
+        "firstname": "Daniel",
+        "lastname": "Brunner",
+        "street": "Rosenweg 25",
+        "zipcode": "3600",
+        "place": "Thun"
+    },
+    {
+        "id": 14,
+        "firstname": "Sophie",
+        "lastname": "Meier",
+        "street": "Poststrasse 30",
+        "zipcode": "5000",
+        "place": "Aarau"
+    },
+    {
+        "id": 15,
+        "firstname": "David",
+        "lastname": "Schmid",
+        "street": "Mühlegasse 30",
+        "zipcode": "1700",
+        "place": "Freiburg"
+    },
+    {
+        "id": 16,
+        "firstname": "Noah",
+        "lastname": "Baumann",
+        "street": "Kirchgasse 59",
+        "zipcode": "3600",
+        "place": "Thun"
+    },
+    {
+        "id": 17,
+        "firstname": "Marco",
+        "lastname": "Huber",
+        "street": "Gartenweg 46",
+        "zipcode": "7000",
+        "place": "Chur"
+    },
+    {
+        "id": 18,
+        "firstname": "Lea",
+        "lastname": "Schmid",
+        "street": "Rosenweg 82",
+        "zipcode": "1003",
+        "place": "Lausanne"
+    },
+    {
+        "id": 19,
+        "firstname": "Felix",
+        "lastname": "Meyer",
+        "street": "Dorfstrasse 60",
+        "zipcode": "4051",
+        "place": "Basel"
+    },
+    {
+        "id": 20,
+        "firstname": "Lea",
+        "lastname": "Wyss",
+        "street": "Schulstrasse 88",
+        "zipcode": "9000",
+        "place": "St. Gallen"
+    }
+]
